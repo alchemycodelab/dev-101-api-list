@@ -1,4 +1,4 @@
-A/V Jukebox
+API List
 ===
 
 Build and deploy a Jukebox list of images and sounds
@@ -66,11 +66,4 @@ To "push" to GitHub, either hit "Sync" after committing, or hit the recycle whee
 
 ## Assignment
 
-Create a list of cards that have a button for playing an associated sound. The project will move these phases:
-
-1. Static (hard-coded) ~3 cards with event listeners that play a unique sound.
-1. Create "data" of an array and an object for each card. Add at least 10 items.
-1. Make a template for a card, and use JavaScript to:
-    1. Copy the template
-    1. Insert the data values
-    1. Attach the event listener for playing the sound
+Create a list of items using one of the supplied API functions!
